@@ -15,7 +15,7 @@ Ayo tunggu apa lagi, gunaka GOcation sekarang
 <b>Have a fun vacation while staying in the best location</b>
 
 # Background
-Aplikasi ini dibuat untuk memenuhi tugas project dari mata kuliah Object Oriented Programming 
+Aplikasi ini dibuat untuk memenuhi tugas project dari mata kuliah Object Oriented Programming Kelas LA05 2022/2023
 
 # About
 GOcation adalah aplikasi yang dibuat untuk memudahkan penggunanya mencari rekomendasi villa dan hotel
