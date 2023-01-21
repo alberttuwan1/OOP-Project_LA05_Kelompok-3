@@ -1,4 +1,7 @@
-# OOP-Project_LA05_Kelompok-3
+# GOcation
+
+![Main Menu](https://user-images.githubusercontent.com/105161746/213859425-13bfb3c8-e439-4d08-b2eb-5b56ae1b8cc6.png)
+
 
 Kamu mahasiswa yang cape habis ujian<br/>
 atau...<br/>
