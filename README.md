@@ -14,13 +14,17 @@ GOcation menyediakan rekomendasi villa dan hotel berbintang 3 ke atas untuk daer
 Ayo tunggu apa lagi, gunaka GOcation sekarang
 <b>Have a fun vacation while staying in the best location</b>
 
+# Background
+Aplikasi ini dibuat untuk memenuhi tugas project dari mata kuliah Object Oriented Programming 
+
 # About
-GOcation adalah aplikasi yang sengaja dibuat untuk memudahkan penggunanya mencari rekomendasi villa dan hotel
+GOcation adalah aplikasi yang dibuat untuk memudahkan penggunanya mencari rekomendasi villa dan hotel
 <b>Fitur</b>
 <ul>
   <li>Show berdasarkan grade / bintang</li>
   <li>Show berdasrkan lokasi</li>
 </ul>  
+
 
 
 # Prototype
