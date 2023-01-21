@@ -20,4 +20,4 @@ GOcation adalah aplikasi yang sengaja dibuat untuk memudahkan penggunanya mencar
 Kamu bisa melihat prototype dari link berikut:
 bit.ly/GOcation
 
-# Have a fun vacation while staying in the best location
+<b>Have a fun vacation while staying in the best location</b>
